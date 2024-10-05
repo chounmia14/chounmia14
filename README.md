@@ -14,5 +14,15 @@ Skills: JS / HTML / CSS / PHP
 - 💬 Ask me about Web development. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chounmia14)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chounmia14)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chounmia14)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chounmia14&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/chounmia14)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=chounmia14)  
 
